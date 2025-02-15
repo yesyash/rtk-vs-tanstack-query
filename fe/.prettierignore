@@ -1,0 +1,7 @@
+node_modules
+public
+build
+pnpm-lock.yaml
+.react-router
+.nx
+coverage
